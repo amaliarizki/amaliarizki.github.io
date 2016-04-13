@@ -1,0 +1,38 @@
+<DOCTYPE!>
+    <html>
+    <head>
+     <style>
+     
+        body {background-image: url("frozen.jpg");}
+        a::active {color:green;}
+        a::visited{color:purple;}
+        .size1{weight:70%;height:50%;}
+        .div2{background-color:purple;}
+        .judul{font-family:verdana;font-size:50px;font-style:italic;color:blue;}
+        .atur{font-family:arial;color:purple:font-style:bold;font-size:50px;}
+        .semua{font-family:comic sans MS;font-size:30px;}
+        
+      </style>
+      
+    <head>
+      <body>
+      <div1>
+      <h1 class="judul">Selamat datang di situs <a href="http://www.facebook.com/amalia.rizki.39">kami</a></h1>
+      <img class="size1" src="puddot.jpg">
+      </div>
+      
+      <div2 class="div2">
+      <h2 class="atur"></h1>
+      <p class="semua">
+Puddot???? apaan tuuuhhhh
+aisshhh mau ta ajaaa
+udaah ga usah penisirin...pokokna enaakkkk...xixixixi<br>
+Puddot???? apaan tuuuhhhh
+aisshhh mau ta ajaaa
+udaah ga usah penisirin...pokokna enaakkkk...xixixixi
+Untuk cara pemesanan dapat dilakukan di laman kami <a href="file2senin.html">berikut ini</a>
+      </p>
+      </div>
+      </body>
+      </html>
+      
